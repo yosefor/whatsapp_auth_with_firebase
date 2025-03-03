@@ -36,7 +36,7 @@ This project provides a serverless authentication system using Firebase Cloud Fu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/firebase-whatsapp-auth.git
+   git clone [https://github.com/your-username/firebase-whatsapp-auth.git](https://github.com/yosefor/whatsapp_auth_with_firebase.git)
    cd firebase-whatsapp-auth
    ```
 
